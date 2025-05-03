@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>joseco</Authors>
-    <RepositoryUrl>https://github.com/nur-university/ms2024-store-integration</RepositoryUrl>
+    <RepositoryUrl>https://github.com/nur-university/sk2024-store-integration</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
